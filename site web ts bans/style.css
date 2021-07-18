@@ -1,0 +1,23 @@
+table {
+    margin-top: 5em;
+    background-color: rgb(30, 33, 36);
+    color: white;
+    width: 100%;
+}
+table tr th{
+    background-color: rgb(40, 43, 48);
+    font-weight: normal;
+}
+
+table tr td{
+    border: solid rgb(40, 43, 48) 1px;
+    padding: 0.3em;
+}
+
+body{
+    background-color: rgb(30, 33, 36);
+}
+
+section{
+    color: #999
+}
